@@ -1551,35 +1551,35 @@ if ( ! function_exists( 'ot_option_types_array' ) ) {
   function ot_option_types_array() {
   
     return apply_filters( 'ot_option_types_array', array( 
-      'background'                => 'Background',
-      'category-checkbox'         => 'Category Checkbox',
-      'category-select'           => 'Category Select',
-      'checkbox'                  => 'Checkbox',
-      'colorpicker'               => 'Colorpicker',
-      'css'                       => 'CSS',
-      'custom-post-type-checkbox' => 'Custom Post Type Checkbox',
-      'custom-post-type-select'   => 'Custom Post Type Select',
-      'list-item'                 => 'List Item',
-      'measurement'               => 'Measurement',
-      'page-checkbox'             => 'Page Checkbox',
-      'page-select'               => 'Page Select',
-      'post-checkbox'             => 'Post Checkbox',
-      'post-select'               => 'Post Select',
-      'radio'                     => 'Radio',
-      'radio-image'               => 'Radio Image',
-      'select'                    => 'Select',
-      'slider'                    => 'Slider',
-      'tag-checkbox'              => 'Tag Checkbox',
-      'tag-select'                => 'Tag Select',
-      'taxonomy-checkbox'         => 'Taxonomy Checkbox',
-      'taxonomy-select'           => 'Taxonomy Select',
-      'text'                      => 'Text',
-      'textarea'                  => 'Textarea',
-      'textarea-simple'           => 'Textarea Simple',
-      'textblock'                 => 'Textblock',
-      'textblock-titled'          => 'Textblock Titled',
-      'typography'                => 'Typography',
-      'upload'                    => 'Upload'
+      'background'                => __('Background', 'option-tree' ),
+      'category-checkbox'         => __('Category Checkbox', 'option-tree' ),
+      'category-select'           => __('Category Select', 'option-tree' ),
+      'checkbox'                  => __('Checkbox', 'option-tree' ),
+      'colorpicker'               => __('Colorpicker', 'option-tree' ),
+      'css'                       => __('CSS', 'option-tree' ),
+      'custom-post-type-checkbox' => __('Custom Post Type Checkbox','option-tree' ),
+      'custom-post-type-select'   => __('Custom Post Type Select','option-tree' ),
+      'list-item'                 => __('List Item', 'option-tree' ),
+      'measurement'               => __('Measurement', 'option-tree' ),
+      'page-checkbox'             => __('Page Checkbox', 'option-tree' ),
+      'page-select'               => __('Page Select', 'option-tree' ),
+      'post-checkbox'             => __('Post Checkbox', 'option-tree' ),
+      'post-select'               => __('Post Select', 'option-tree' ),
+      'radio'                     => __('Radio', 'option-tree' ),
+      'radio-image'               => __('Radio Image', 'option-tree' ),
+      'select'                    => __('Select', 'option-tree' ),
+      'slider'                    => __('Slider', 'option-tree' ),
+      'tag-checkbox'              => __('Tag Checkbox', 'option-tree' ),
+      'tag-select'                => __('Tag Select', 'option-tree' ),
+      'taxonomy-checkbox'         => __('Taxonomy Checkbox', 'option-tree' ),
+      'taxonomy-select'           => __('Taxonomy Select', 'option-tree' ),
+      'text'                      => __('Text', 'option-tree' ),
+      'textarea'                  => __('Textarea', 'option-tree' ),
+      'textarea-simple'           => __('Textarea Simple', 'option-tree' ),
+      'textblock'                 => __('Textblock', 'option-tree' ),
+      'textblock-titled'          => __('Textblock Titled', 'option-tree' ),
+      'typography'                => __('Typography', 'option-tree' ),
+      'upload'                    => __('Upload', 'option-tree' )
     ) );
     
   }
@@ -1602,30 +1602,30 @@ if ( ! function_exists( 'ot_map_old_option_types' ) ) {
       return 'text';
       
     $types = array(
-      'background'	      => 'background',
-      'category'          => 'category-select',
-      'categories'        => 'category-checkbox',
-      'checkbox'          => 'checkbox',
-      'colorpicker'       => 'colorpicker',
-      'css'	              => 'css',
-      'custom_post'       => 'custom-post-type-select',
-      'custom_posts'      => 'custom-post-type-checkbox',                     
-      'input'             => 'text',
-      'image'             => 'upload',
-      'measurement'       => 'measurement',
-      'page'              => 'page-select',
-      'pages'             => 'page-checkbox',
-      'post'              => 'post-select',
-      'posts'             => 'post-checkbox',
-      'radio'             => 'radio',
-      'select'            => 'select',
-      'slider'            => 'slider',
-      'tag'               => 'tag-select',
-      'tags'              => 'tag-checkbox',
-      'textarea'          => 'textarea',
-      'textblock'         => 'textblock',
-      'typography'	      => 'typography',
-      'upload'            => 'upload'
+      'background'	      => __('background', 'option-tree' ),
+      'category'          => __('category-select', 'option-tree' ),
+      'categories'        => __('category-checkbox', 'option-tree' ),
+      'checkbox'          => __('checkbox', 'option-tree' ),
+      'colorpicker'       => __('colorpicker', 'option-tree' ),
+      'css'	              => __('css', 'option-tree' ),
+      'custom_post'       => __('custom-post-type-select', 'option-tree' ),
+      'custom_posts'      => __('custom-post-type-checkbox', 'option-tree' ),                     
+      'input'             => __('text', 'option-tree' ),
+      'image'             => __('upload', 'option-tree' ),
+      'measurement'       => __('measurement', 'option-tree' ),
+      'page'              => __('page-select', 'option-tree' ),
+      'pages'             => __('page-checkbox', 'option-tree' ),
+      'post'              => __('post-select', 'option-tree' ),
+      'posts'             => __('post-checkbox', 'option-tree' ),
+      'radio'             => __('radio', 'option-tree' ),
+      'select'            => __('select', 'option-tree' ),
+      'slider'            => __('slider', 'option-tree' ),
+      'tag'               => __('tag-select', 'option-tree' ),
+      'tags'              => __('tag-checkbox', 'option-tree' ),
+      'textarea'          => __('textarea', 'option-tree' ),
+      'textblock'         => __('textblock', 'option-tree' ),
+      'typography'	      => __('typography', 'option-tree' ),
+      'upload'            => __('upload', 'option-tree' )
     );
     
     if ( isset( $types[$type] ) )
@@ -1656,10 +1656,10 @@ if ( ! function_exists( 'ot_recognized_font_styles' ) ) {
   function ot_recognized_font_styles( $field_id = '' ) {
   
     return apply_filters( 'ot_recognized_font_styles', array(
-      'normal'  => 'Normal',
-      'italic'  => 'Italic',
-      'oblique' => 'Oblique',
-      'inherit' => 'Inherit'
+      'normal'  => __('Normal', 'option-tree' ),
+      'italic'  => __('Italic', 'option-tree' ),
+      'oblique' => __('Oblique', 'option-tree' ),
+      'inherit' => __('Inherit', 'option-tree' )
     ), $field_id );
     
   }
@@ -1685,20 +1685,20 @@ if ( ! function_exists( 'ot_recognized_font_weights' ) ) {
   function ot_recognized_font_weights( $field_id = '' ) {
     
     return apply_filters( 'ot_recognized_font_weights', array(
-      'normal'    => 'Normal',
-      'bold'      => 'Bold',
-      'bolder'    => 'Bolder',
-      'lighter'   => 'Lighter',
-      '100'       => '100',
-      '200'       => '200',
-      '300'       => '300',
-      '400'       => '400',
-      '500'       => '500',
-      '600'       => '600',
-      '700'       => '700',
-      '800'       => '800',
-      '900'       => '900',
-      'inherit'   => 'Inherit'
+      'normal'    => __('Normal', 'option-tree' ),
+      'bold'      => __('Bold', 'option-tree' ),
+      'bolder'    => __('Bolder', 'option-tree' ),
+      'lighter'   => __('Lighter', 'option-tree' ),
+      '100'       => __('100', 'option-tree' ),
+      '200'       => __('200', 'option-tree' ),
+      '300'       => __('300', 'option-tree' ),
+      '400'       => __('400', 'option-tree' ),
+      '500'       => __('500', 'option-tree' ),
+      '600'       => __('600', 'option-tree' ),
+      '700'       => __('700', 'option-tree' ),
+      '800'       => __('800', 'option-tree' ),
+      '900'       => __('900', 'option-tree' ),
+      'inherit'   => __('Inherit', 'option-tree' )
     ), $field_id );
   
   }
@@ -1724,9 +1724,9 @@ if ( ! function_exists( 'ot_recognized_font_variants' ) ) {
   function ot_recognized_font_variants( $field_id = '' ) {
   
     return apply_filters( 'ot_recognized_font_variants', array(
-      'normal'      => 'Normal',
-      'small-caps'  => 'Small Caps',
-      'inherit'     => 'Inherit'
+      'normal'      => __('Normal', 'option-tree' ),
+      'small-caps'  => __('Small Caps', 'option-tree' ),
+      'inherit'     => __('Inherit', 'option-tree' )
     ), $field_id );
   
   }
@@ -1787,11 +1787,11 @@ if ( ! function_exists( 'ot_recognized_background_repeat' ) ) {
   function ot_recognized_background_repeat( $field_id = '' ) {
   
     return apply_filters( 'ot_recognized_background_repeat', array(
-      'no-repeat' => 'No Repeat',
-      'repeat' 		=> 'Repeat All',
-      'repeat-x'  => 'Repeat Horizontally',
-      'repeat-y' 	=> 'Repeat Vertically',
-      'inherit'   => 'Inherit'
+      'no-repeat' => __('No Repeat', 'option-tree' ),
+      'repeat' 		=> __('Repeat All', 'option-tree' ),
+      'repeat-x'  => __('Repeat Horizontally', 'option-tree' ),
+      'repeat-y' 	=> __('Repeat Vertically', 'option-tree' ),
+      'inherit'   => __('Inherit', 'option-tree' )
     ), $field_id );
     
   }
@@ -1817,9 +1817,9 @@ if ( ! function_exists( 'ot_recognized_background_attachment' ) ) {
   function ot_recognized_background_attachment( $field_id = '' ) {
   
     return apply_filters( 'ot_recognized_background_attachment', array(
-      "fixed"   => "Fixed",
-      "scroll"  => "Scroll",
-      "inherit" => "Inherit"
+      'fixed'   => __('Fixed', 'option-tree' ),
+      'scroll'  => __('Scroll', 'option-tree' ),
+      'inherit' => __('Inherit', 'option-tree' )
     ), $field_id );
     
   }
@@ -1845,15 +1845,15 @@ if ( ! function_exists( 'ot_recognized_background_position' ) ) {
   function ot_recognized_background_position( $field_id = '' ) {
   
     return apply_filters( 'ot_recognized_background_position', array(
-      "left top"      => "Left Top",
-      "left center"   => "Left Center",
-      "left bottom"   => "Left Bottom",
-      "center top"    => "Center Top",
-      "center center" => "Center Center",
-      "center bottom" => "Center Bottom",
-      "right top"     => "Right Top",
-      "right center"  => "Right Center",
-      "right bottom"  => "Right Bottom"
+      'left top'      => __('Left Top', 'option-tree' ),
+      'left center'   => __('Left Center', 'option-tree' ),
+      'left bottom'   => __('Left Bottom', 'option-tree' ),
+      'center top'    => __('Center Top', 'option-tree' ),
+      'center center' => __('Center Center', 'option-tree' ),
+      'center bottom' => __('Center Bottom', 'option-tree' ),
+      'right top'     => __('Right Top', 'option-tree' ),
+      'right center'  => __('Right Center', 'option-tree' ),
+      'right bottom'  => __('Right Bottom', 'option-tree' )
     ), $field_id );
     
   }

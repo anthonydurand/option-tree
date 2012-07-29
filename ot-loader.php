@@ -139,12 +139,12 @@ if ( ! class_exists( 'OT_Loader' ) ) {
      */
     public function load_textdomain() {
       if ( false == OT_THEME_MODE ) {
-        load_plugin_textdomain( 'option-tree', false, OT_DIR . 'languages' );
+        /*load_plugin_textdomain( 'option-tree', false, OT_DIR . 'languages' );*/
+        load_plugin_textdomain( 'option-tree', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
       } else {
         load_theme_textdomain( 'option-tree', OT_DIR . 'languages' );
       }
     }
-    
     /**
      * Include admin files
      *

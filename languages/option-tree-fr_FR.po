@@ -2,366 +2,366 @@
 # This file is distributed under the same license as the  package.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Option Tree\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-29 11:57+0100\n"
-"PO-Revision-Date: 2012-07-29 11:57+0100\n"
+"PO-Revision-Date: 2012-07-29 14:21+0100\n"
 "Last-Translator: \n"
-"Language-Team: @valendesign\n"
+"Language-Team: @_anthony_durand <@_anthony_durand>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: English\n"
-"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\option-tree\n"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:83
 msgid "The Colorpicker only allows valid hexadecimal values."
-msgstr ""
+msgstr "Le sélecteur de couleurs autorise seulement les valeurs hexadecimales valides."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:163
 msgid "Send to OptionTree"
-msgstr ""
+msgstr "Envoyer à OptionTree"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:164
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:152
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:1683
 msgid "Remove Media"
-msgstr ""
+msgstr "Enlever le Média"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:165
 msgid "Are you sure you want to reset back to the defaults?"
-msgstr ""
+msgstr "Etes-vous sûr de vouloir réinitialiser aux valeurs par défaut?"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:166
 msgid "You can't remove this! But you can edit the values."
-msgstr ""
+msgstr "Vous ne pouvez pas supprimer ceci ! Mais vous pouvez modifier les valeurs."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:167
 msgid "Are you sure you want to remove this?"
-msgstr ""
+msgstr "Etes-vous sûr de vouloir supprimer ceci ?"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:168
 msgid "Are you sure you want to activate this layout?"
-msgstr ""
+msgstr "Etes-vous sûr de vouloir activer cette mise en page ?"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:169
 msgid "Sorry, you can't have settings three levels deep."
-msgstr ""
+msgstr "Désolé, vous ne pouvez pas avoir des paramètres avec plus de trois niveaux de profondeur."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:215
 msgid "Option Tree"
-msgstr ""
+msgstr "Option Tree"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:351
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:357
 msgid "Sample Text Field Label"
-msgstr ""
+msgstr "Libellé de champ texte (Exemple)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:358
 msgid "Description for the sample text field."
-msgstr ""
+msgstr "Description du champ de texte (Exemple)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1460
 msgid "Layout activated."
-msgstr ""
+msgstr "Mise en page activée."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1473
 msgid "Settings updated."
-msgstr ""
+msgstr "Paramètres mis à jour."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1477
 msgid "Settings could not be saved."
-msgstr ""
+msgstr "Les paramètres ne peuvent pas être enregistrés."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1485
 msgid "Settings Imported."
-msgstr ""
+msgstr "Paramètres importés."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1489
 msgid "Settings could not be imported."
-msgstr ""
+msgstr "Les paramètres ne peuvent pas être importés."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1496
 msgid "Data Imported."
-msgstr ""
+msgstr "Données importées."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1500
 msgid "Data could not be imported."
-msgstr ""
+msgstr "Les données ne peuvent pas être importées."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1508
 msgid "Layouts Imported."
-msgstr ""
+msgstr "Mises en page importées."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1512
 msgid "Layouts could not be imported."
-msgstr ""
+msgstr "Les mises en page ne peuvent pas être importées."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1520
 msgid "Layouts Updated."
-msgstr ""
+msgstr "Les mises en page ont été mises à jour."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1524
 msgid "Layouts could not be updated."
-msgstr ""
+msgstr "Les mises en page ne peuvent pas être mises à jour."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1554
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:98
 msgid "Background"
-msgstr ""
+msgstr "Arrière-plan (Background)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1555
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:104
 msgid "Category Checkbox"
-msgstr ""
+msgstr "Case à cocher de catégorie (Category Checkbox)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1556
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:101
 msgid "Category Select"
-msgstr ""
+msgstr "Liste déroulante de catégorie (Category Select)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1557
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:107
 msgid "Checkbox"
-msgstr ""
+msgstr "Case à cocher (Checkbox)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1558
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:110
 msgid "Colorpicker"
-msgstr ""
+msgstr "Sélecteur de couleur (Colorpicker)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1559
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:113
 msgid "CSS"
-msgstr ""
+msgstr "CSS"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1560
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:135
 msgid "Custom Post Type Checkbox"
-msgstr ""
+msgstr "Case à cocher de type d'article personalisé (Custom Post Type Checkbox)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1561
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:132
 msgid "Custom Post Type Select"
-msgstr ""
+msgstr "Liste déroulante de type d'article personalisé (Custom Post Type Select)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1562
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:138
 msgid "List Item"
-msgstr ""
+msgstr "Liste d'éléments (List Item)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1563
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:141
 msgid "Measurement"
-msgstr ""
+msgstr "Mesures (Measurement)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1564
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:175
 msgid "Page Checkbox"
-msgstr ""
+msgstr "Case à cocher de page (Page Checkbox)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1565
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:172
 msgid "Page Select"
-msgstr ""
+msgstr "Liste déroulante de page (Page Select)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1566
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:181
 msgid "Post Checkbox"
-msgstr ""
+msgstr "Case à cocher d'article (Post Checkbox)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1567
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:178
 msgid "Post Select"
-msgstr ""
+msgstr "Liste déroulante d'article (Post Select)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1568
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:184
 msgid "Radio"
-msgstr ""
+msgstr "Radio"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1569
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:187
 msgid "Radio Image"
-msgstr ""
+msgstr "Radio Image"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1570
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:214
 msgid "Select"
-msgstr ""
+msgstr "Liste déroulante (Select)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1571
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:217
 msgid "Slider"
-msgstr ""
+msgstr "Curseur (Slider)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1572
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:220
 msgid "Tag Checkbox"
-msgstr ""
+msgstr "Case à cocher de tag (Tag Checkbox)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1573
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:223
 msgid "Tag Select"
-msgstr ""
+msgstr "Liste déroulante de tag (Tag Select)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1574
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:226
 msgid "Taxonomy Checkbox"
-msgstr ""
+msgstr "Case à cocher de taxonomie (Taxonomy Checkbox)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1575
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:229
 msgid "Taxonomy Select"
-msgstr ""
+msgstr "Liste déroulante de taxonomie (Taxonomy Select)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1576
 msgid "Text"
-msgstr ""
+msgstr "Texte (Text)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1577
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:235
 msgid "Textarea"
-msgstr ""
+msgstr "Zone de texte (Textarea)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1578
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:294
 msgid "Textarea Simple"
-msgstr ""
+msgstr "Zone de texte simple (Textarea Simple)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1579
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:310
 msgid "Textblock"
-msgstr ""
+msgstr "Bloc de texte (Textblock)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1580
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:313
 msgid "Textblock Titled"
-msgstr ""
+msgstr "Bloc de texte avec titre (Textblock Titled)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1581
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:316
 msgid "Typography"
-msgstr ""
+msgstr "Typographie (Typography)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1582
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:336
 msgid "Upload"
-msgstr ""
+msgstr "Téléversement (Upload)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1605
 msgid "background"
-msgstr ""
+msgstr "Arrière-plan (background)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1606
 msgid "category-select"
-msgstr ""
+msgstr "Liste déroulante de catégorie (category-select)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1607
 msgid "category-checkbox"
-msgstr ""
+msgstr "Case à cocher de catégorie"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1608
 msgid "checkbox"
-msgstr ""
+msgstr "Case à cocher"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1609
 msgid "colorpicker"
-msgstr ""
+msgstr "Sélecteur de couleur"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1610
 msgid "css"
-msgstr ""
+msgstr "css"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1611
 msgid "custom-post-type-select"
-msgstr ""
+msgstr "custom-post-type-select"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1612
 msgid "custom-post-type-checkbox"
-msgstr ""
+msgstr "custom-post-type-checkbox"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1613
 msgid "text"
-msgstr ""
+msgstr "texte"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1614
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1628
 msgid "upload"
-msgstr ""
+msgstr "téléversement (Upload)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1615
 msgid "measurement"
-msgstr ""
+msgstr "Mesures"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1616
 msgid "page-select"
-msgstr ""
+msgstr "Liste déroulante de page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1617
 msgid "page-checkbox"
-msgstr ""
+msgstr "Case à cocher de page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1618
 msgid "post-select"
-msgstr ""
+msgstr "post-select"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1619
 msgid "post-checkbox"
-msgstr ""
+msgstr "Case à cocher"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1620
 msgid "radio"
-msgstr ""
+msgstr "radio"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1621
 msgid "select"
-msgstr ""
+msgstr "Liste déroulante"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1622
 msgid "slider"
-msgstr ""
+msgstr "curseur"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1623
 msgid "tag-select"
-msgstr ""
+msgstr "Liste déroulante de page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1624
 msgid "tag-checkbox"
-msgstr ""
+msgstr "Case à cocher de page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1625
 msgid "textarea"
-msgstr ""
+msgstr "zone de texte"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1626
 msgid "textblock"
-msgstr ""
+msgstr "bloc de texte"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1627
 msgid "typography"
-msgstr ""
+msgstr "typographie"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1659
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1688
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1727
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1660
 msgid "Italic"
-msgstr ""
+msgstr "Italic (Italique)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1661
 msgid "Oblique"
-msgstr ""
+msgstr "Oblique"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1662
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1701
@@ -369,153 +369,153 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1794
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1822
 msgid "Inherit"
-msgstr ""
+msgstr "Inherit (Hérité)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1689
 msgid "Bold"
-msgstr ""
+msgstr "Bold (Gras)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1690
 msgid "Bolder"
-msgstr ""
+msgstr "Bolder (Le plus gras)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1691
 msgid "Lighter"
-msgstr ""
+msgstr "Lighter (Le Plus clair)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1692
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1693
 msgid "200"
-msgstr ""
+msgstr "200"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1694
 msgid "300"
-msgstr ""
+msgstr "300"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1695
 msgid "400"
-msgstr ""
+msgstr "400"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1696
 msgid "500"
-msgstr ""
+msgstr "500"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1697
 msgid "600"
-msgstr ""
+msgstr "600"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1698
 msgid "700"
-msgstr ""
+msgstr "700"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1699
 msgid "800"
-msgstr ""
+msgstr "800"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1700
 msgid "900"
-msgstr ""
+msgstr "900"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1728
 msgid "Small Caps"
-msgstr ""
+msgstr "Small Caps (Petites majuscules)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1790
 msgid "No Repeat"
-msgstr ""
+msgstr "No Repeat (Pas de répétition)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1791
 msgid "Repeat All"
-msgstr ""
+msgstr "Repeat All (Tout répéter)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1792
 msgid "Repeat Horizontally"
-msgstr ""
+msgstr "Repeat Horizontally (Répéter horizontalement)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1793
 msgid "Repeat Vertically"
-msgstr ""
+msgstr "Repeat Vertically (Répéter verticalement)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1820
 msgid "Fixed"
-msgstr ""
+msgstr "Fixed (Fixe)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1821
 msgid "Scroll"
-msgstr ""
+msgstr "Scroll"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1848
 msgid "Left Top"
-msgstr ""
+msgstr "Left Top (Gauche Haut)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1849
 msgid "Left Center"
-msgstr ""
+msgstr "Left Center (Gauche Centre)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1850
 msgid "Left Bottom"
-msgstr ""
+msgstr "Left Bottom (Gauche Bas)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1851
 msgid "Center Top"
-msgstr ""
+msgstr "Center Top (Centre Haut)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1852
 msgid "Center Center"
-msgstr ""
+msgstr "Center Center (Centre Centre)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1853
 msgid "Center Bottom"
-msgstr ""
+msgstr "Center Bottom (Centre Bas)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1854
 msgid "Right Top"
-msgstr ""
+msgstr "Right Top (Droit Haut)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1855
 msgid "Right Center"
-msgstr ""
+msgstr "Right Center (Droite Centre)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1856
 msgid "Right Bottom"
-msgstr ""
+msgstr "Right Bottom (Droit Bas)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1913
 msgid "Left Sidebar"
-msgstr ""
+msgstr "Barre latérale gauche"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1918
 msgid "Right Sidebar"
-msgstr ""
+msgstr "Barre latérale droite"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1923
 msgid "Full Width (no sidebar)"
-msgstr ""
+msgstr "Pleine largeur (pas de barre latérale)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1928
 msgid "Dual Sidebar"
-msgstr ""
+msgstr "Double barre latérale"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1933
 msgid "Left Dual Sidebar"
-msgstr ""
+msgstr "Double barre latérale gauche"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1938
 msgid "Right Dual Sidebar"
-msgstr ""
+msgstr "Double barre latérale droite"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1968
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2029
 msgid "Image"
-msgstr ""
+msgstr "Image"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1979
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2035
 msgid "Link"
-msgstr ""
+msgstr "Lien"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:1990
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2041
@@ -523,11 +523,11 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:367
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:417
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2498
 msgid "edit"
-msgstr ""
+msgstr "éditer"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2499
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2553
@@ -539,7 +539,7 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2883
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2884
 msgid "Edit"
-msgstr ""
+msgstr "Editer"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2501
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2502
@@ -554,141 +554,141 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2886
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2887
 msgid "Delete"
-msgstr ""
+msgstr "Effacer"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2508
 msgid "<strong>Section Title</strong>: Displayed as a menu item on the Theme Options page."
-msgstr ""
+msgstr "<strong>Titre de la section</strong> : Affiché comme un élément de menu sur la page Options du thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2516
 msgid "<strong>Section ID</strong>: A unique lower case alphanumeric string, underscores allowed."
-msgstr ""
+msgstr "<strong>ID de la section</strong> : Une chaine de caractères minuscule alphanumérique unique, tiret bas autorisés."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2563
 msgid "<strong>Label</strong>: Displayed as the label of a form element on the Theme Options page."
-msgstr ""
+msgstr "<strong>Libellé</strong> : Affiché comme libellé d'un élément de formulaire sur la page Options du thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2571
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2773
 msgid "<strong>ID</strong>: A unique lower case alphanumeric string, underscores allowed."
-msgstr ""
+msgstr "<strong>ID</strong> : Une chaine de caractères minuscule alphanumérique unique, tiret bas autorisés."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2579
 msgid "<strong>Type</strong>: Choose one of the available option types from the dropdown."
-msgstr ""
+msgstr "<strong>Type</strong> : Choisissez l'un des types d'options disponibles à partir de la liste déroulante."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2590
 msgid "<strong>Description</strong>: Enter a detailed description for the users to read on the Theme Options page, HTML is allowed. This is also where you enter content for both the Textblock & Textblock Titled option types."
-msgstr ""
+msgstr "<strong> Description</strong> : Entrez une description détaillée pour les utilisateurs à lire sur la page Options du thème, le HTML est autorisé. C'est également là que vous entrez du contenu à la fois pour les types d'options Bloc de texte et Bloc de texte avec titre ."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2598
 msgid "<strong>Choices</strong>: This will only affect the following option types: Checkbox, Radio, Select & Select Image."
-msgstr ""
+msgstr "<strong>Choix</strong> : Cela affectera seulement les types d'options suivantes: Case à cocher, Radio, Liste déroulante & Choisir une image."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2603
 msgid "Add Choice"
-msgstr ""
+msgstr "Ajouter un choix"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2609
 msgid "<strong>Settings</strong>: This will only affect the List Item option type."
-msgstr ""
+msgstr "<strong>Paramètres</strong> : Cela affectera seulement le type d'option \"Liste d'éléments\"."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2614
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:93
 msgid "Add Setting"
-msgstr ""
+msgstr "Ajouter paramètre"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2620
 msgid "<strong>Standard</strong>: Setting the standard value for your option only works for some option types. Read the <code>OptionTree->Documentation</code> for more information on which ones."
-msgstr ""
+msgstr "<strong>Standard</strong> : Le réglage de la valeur standard pour votre option ne fonctionne que pour certains types d'options. Lire le <code> OptionTree-> Documentation</code> pour plus d'informations sur lesquelles."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2628
 msgid "<strong>Rows</strong>: Enter a numeric value for the number of rows in your textarea. This will only affect the following option types: CSS, Textarea, & Textarea Simple."
-msgstr ""
+msgstr "<strong>Lignes</strong> : Entrez une valeur numérique pour le nombre de lignes dans votre zone de texte. Cela affectera seulement les types d'options suivantes: CSS, Zone de texte et Zone de texte simple."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2636
 msgid "<strong>Post Type</strong>: Add a comma separated list of post type like 'post,page'. This will only affect the following option types: Custom Post Type Checkbox, & Custom Post Type Select."
-msgstr ""
+msgstr "<strong>Type d'article</strong> : Ajouter une liste déroulante séparée par des virgules de type d'article comme 'post,page'. Cela affectera seulement les types d'options suivantes: Case à cocher de Type d'article personalisé et Liste déroulante de Type d'article personalisé ."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2644
 msgid "<strong>Taxonomy</strong>: Add a comma separated list of any registered taxonomy like 'category,post_tag'. This will only affect the following option types: Taxonomy Checkbox, & Taxonomy Select."
-msgstr ""
+msgstr "<strong>Taxonomie</strong> : Ajouter une liste séparée par des virgules de toute taxonomie enregistrée comme 'categorie, post_tag'. Cela affectera seulement les types d'options suivantes : Case à cocher de Taxonomie et Liste déroulante de Taxonomie."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2652
 msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
-msgstr ""
+msgstr "<strong>Classe CSS</strong> : Ajouter une classe CSS optionelle à ce type d'option."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2699
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:29
 msgid "Label"
-msgstr ""
+msgstr "Libellé"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2709
 msgid "Value"
-msgstr ""
+msgstr "Valeur"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2719
 msgid "Image Source (Radio Image only)"
-msgstr ""
+msgstr "Source de l'image (Image du Radio seulement)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2765
 msgid "<strong>Title</strong>: Displayed as a contextual help menu item on the Theme Options page."
-msgstr ""
+msgstr "<strong>Titre</strong> : Affiché comme un élément de menu d'aide contextuelle sur la page Options du thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2781
 msgid "<strong>Content</strong>: Enter the HTML content about this contextual help item displayed on the Theme Option page for end users to read."
-msgstr ""
+msgstr "<strong>Contenu</strong> : Entrez le contenu HTML de l'aide contextuelle affichée pour l'élément que les utilisateurs finaux liront sur la page Options du thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2812
 msgid "Layout"
-msgstr ""
+msgstr "Mise en page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2814
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2815
 msgid "Activate"
-msgstr ""
+msgstr "Activer"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2851
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-meta-box-api.php:177
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-settings-api.php:572
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-admin.php:2977
 msgid "New Layout"
-msgstr ""
+msgstr "Nouvelle mise en page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:30
 msgid "The Label field should be a short but descriptive block of text 100 characters or less with no HTML."
-msgstr ""
+msgstr "Le champ Libellé doit être un bloc court mais descriptif de texte de 100 caractères ou moins, sans HTML."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:32
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:33
 msgid "The ID field is a unique alphanumeric key used to differentiate each theme option (underscores are acceptable). Also, the plugin will change all text you write in this field to lowercase and replace spaces and special characters with an underscore automatically."
-msgstr ""
+msgstr "Le champ ID est une clé alphanumérique unique qui sert à différencier chaque option de thème (tiret bas est accepté). En outre, le plugin va changer tout le texte que vous écrivez dans ce champ en minuscules et remplacer les espaces et les caractères spéciaux avec un trait de soulignement automatiquement."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:35
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:36
 msgid "You are required to choose one of the supported option types when creating a new option. Here is a list of the available option types. For more information about each type click the <code>Option Types</code> tab to the left."
-msgstr ""
+msgstr "Vous êtes tenu de choisir l'un des types d'options prises en charge lors de la création d'une nouvelle option. Voici une liste des types d'options disponibles. Pour plus d'informations sur chaque type de cliquez sur l' onglet <code>Types d'options</code> à gauche."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:44
 msgid "Enter a detailed description for the users to read on the Theme Options page, HTML is allowed. This is also where you enter content for both the Textblock & Textblock Titled option types."
-msgstr ""
+msgstr "Entrez une description détaillée que les utilisateurs finaux liront sur la page Options du thème, le HTML est autorisé. C'est également là que vous entrez du contenu à la fois pour les types d'options Bloc de texte et Bloc de texte avec titre."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:46
 msgid "Choices"
-msgstr ""
+msgstr "Choix"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:47
 msgid "Click the \"Add Choice\" button to add an item to the choices array. This will only affect the following option types: Checkbox, Radio, Select & Select Image."
-msgstr ""
+msgstr "Cliquez sur le bouton \"Ajouter Choix \"  pour ajouter un élément au tableau de choix. Cela affectera seulement les types d'options suivantes: Case à cocher, Radio, Liste déroulante & Sélectionner une image."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:49
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:30
@@ -696,256 +696,256 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:74
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:98
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:50
 msgid "Click the \"Add Setting\" button found inside a newly created setting to add an item to the settings array. This will only affect the List Item type."
-msgstr ""
+msgstr "Cliquez sur le bouton \"Ajoute paramètre\" qui se trouve dans un paramètre nouvellement créé pour ajouter un élément au tableau des paramètres. Cela affectera seulement le type \"Liste d'élément\"."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:52
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:53
 msgid "Setting the standard value for your option only works for some option types. Those types are one that have a single string value saved to them and not an array of values."
-msgstr ""
+msgstr "Définir la valeur standard pour votre option ne fonctionne que pour certains types d'options. Ces types sont celle qui ont une valeur de chaîne unique propre et non un tableau de valeurs."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:55
 msgid "Rows"
-msgstr ""
+msgstr "Lignes"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:56
 msgid "Enter a numeric value for the number of rows in your textarea. This will only affect the following option types: CSS, Textarea, & Textarea Simple."
-msgstr ""
+msgstr "Entrez une valeur numérique pour le nombre de lignes dans votre zone de texte. Cela affectera seulement les types d'options suivantes: CSS, Zone de texte et Zone de texte simple."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:58
 msgid "Post Type"
-msgstr ""
+msgstr "Type d'article"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:59
 msgid "Add a comma separated list of post type like <code>post,page</code>. This will only affect the following option types: Custom Post Type Checkbox, & Custom Post Type Select. Below are the default post types available with WordPress and that are also compatible with OptionTree. You can also add your own custom <code>post_type</code>. At this time <code>any</code> does not seem to return results properly and is something I plan on looking into."
-msgstr ""
+msgstr "Ajouter une liste de type d'article séparée par des virgules comme<code>post, page</code>. Cela affectera seulement les types d'options suivantes: Case à cocher de type d'article personnalisé (Custom Post Type Checkbox), et  Liste déroulante de type d'article personnalisé (Custom Post Type Select). Voici les types d'article par défaut disponibles avec WordPress et qui sont également compatibles avec OptionTree. Vous pouvez également ajouter vos propres <code>post_type</code>. A l'heure actuelle <code>any</code> ne semble pas retourner des résultats bien que ce soit quelque chose que j'ai l'intention d'intégrer."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:67
 msgid "Taxonomy"
-msgstr ""
+msgstr "Taxonomie"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:68
 msgid "Add a comma separated list of any registered taxonomy like <code>category,post_tag</code>. This will only affect the following option types: Taxonomy Checkbox, & Taxonomy Select."
-msgstr ""
+msgstr "Ajouter une liste de toute taxinomie séparée par des virgules comme<code>category,post_tag</code>. Cela affectera seulement les types d'options suivantes : Case à cocher de taxonomie et Liste déroulante de taxonomie."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:99
 msgid "The Background option type is for adding background styles to your theme either dynamically via the CSS option type below or manually with <code>ot_get_option()</code>. Background has filters that allow you to change the defaults. For example, you can filter on <code>ot_recognized_background_repeat</code>, <code>ot_recognized_background_attachment</code>, and <code>ot_recognized_background_position</code>. These filters allow you to fine tune the select lists for your specific CSS needs."
-msgstr ""
+msgstr "Le type d'option \"Arrière-plan\" est pour ajouter des styles d'arrière-plan à votre thème soit dynamiquement via le type d'option CSS ci-dessous ou manuellement avec <code>ot_get_option()</code>.  \"Arrière-plan\" est doté de filtres qui vous permettent de changer les valeurs par défaut. Par exemple, vous pouvez filtrer par <code>ot_recognized_background_repeat</code>,<code>ot_recognized_background_attachment</code> et <code>ot_recognized_background_position</code>. Ces filtres vous permettent d'affiner les listes de sélection pour vos besoins spécifiques CSS."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:102
 msgid "The Category Select option type displays a list of category IDs. It allows the user to select only one category ID and will return that value for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option \"Liste déroulante de catégorie\" affiche une liste des ID de catégorie. Il permet à l'utilisateur de sélectionner un seul ID de catégorie et retournera cette valeur pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:105
 msgid "The Category Checkbox option type displays a list of category IDs. It allows the user to check multiple category IDs and will return that value as an array for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option \"Case à cocher de catégorie\" affiche une liste des ID de catégorie. Il permet à l'utilisateur de cocher de multiples ID de catégorie  et renvoie cette valeur comme un tableau pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:108
 msgid "The Checkbox option type is fairly self explanatory. Typically used to ask questions. For example, \"Do you want to activate asynchronous Google analytics?\" would be a single checkbox with a value of yes. You could have more complex usages but the idea is that you can easily grab the value of the checkbox and use it in you theme. In this situation you would test if the checkbox has a value and execute a block of code if it does and do nothing if it doesn't."
-msgstr ""
+msgstr "Le type d'option à cocher est assez explicite. Généralement utilisé pour poser des questions. Par exemple, \"Voulez-vous pour activer Google Analytics asynchrone?\" serait une seule case avec la valeur oui. Vous pourriez avoir des usages plus complexes, mais l'idée est que vous pouvez facilement saisir la valeur de la case à cocher et l'utiliser dans votre thème. Dans cette situation, vous pouvez tester si la case a une valeur et exécuter un bloc de code si c'est le cas et ne rien faire si ce n'est pas le cas."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:111
 msgid "The Colorpicker option type saves a hexadecimal color code for use in CSS. Use it to modify the color of something in your theme."
-msgstr ""
+msgstr "Le type d'option \"Sélecteur de couleur (Colorpicker)\" enregistre un code de couleur hexadécimal pour une utilisation en CSS. Utilisez-le pour modifier la couleur de quelque chose dans votre thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:114
 msgid "The CSS option type is a textarea that when used properly can add dynamic CSS to your theme from within OptionTree. Unfortunately, due server limitations you will need to create a file named <code>dynamic.css</code> at the root level of your theme and change permissions using chmod so the server can write to the file. I have had the most success setting this single file to 0777 but feel free to play around with permissions until everything is working. A good starting point is 0666. When the server can save to the file CSS will automatically be updated each time you save your theme options."
-msgstr ""
+msgstr "Le type d'option \"CSS\" est une zone de texte qui lorsqu'il est utilisé correctement peut ajouter du CSS dynamique à votre thème depuis OptionTree. Malheureusement, en raison des limitations du serveur, vous devrez créer un fichier nommé <code>dynamic.css</code> au niveau de la racine de votre thème et modifier les permissions en utilisant chmod afin que le serveur peut écrire dans le fichier. J'ai eu le plus de succès permission de ce fichier à 0777, mais n'hésitez pas à jouer avec les autorisations jusqu'à ce que tout fonctionne. Un bon point de départ est 0666. Lorsque le serveur peut enregistrer sur le fichier, CSS sera automatiquement mis à jour chaque fois que vous enregistrez vos options de thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:116
 msgid "An example of the CSS option type: This assumes you have an option with the ID of <code>custom_background_css</code> which will display the saved values for that option."
-msgstr ""
+msgstr "Un exemple du type d'option \"CSS\" : Cela suppose que vous avez une option avec l'ID <code>custom_background_css</code> qui permet d'afficher les valeurs enregistrées pour cette option."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:118
 msgid "Input"
-msgstr ""
+msgstr "Entrée"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:124
 msgid "Output"
-msgstr ""
+msgstr "Sortie"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:133
 msgid "The Custom Post Type Select option type displays a list of IDs from any available WordPress post type or custom post type. It will return a single post ID for use in a custom function or loop. Requires at least one valid <code>post_type</code> when created in the settings. For some reason <code>any</code> does not work correctly and will looked into in future version."
-msgstr ""
+msgstr "L'option \"Liste déroulante de type d'article personalisé (Custom post Type)\" affiche une liste d'ID de n'importe quel type d'article de Wordpress disponible ou de type d'article personnalisé. Il retournera un ID de poste unique pour utilisation dans une fonction personnalisée ou une boucle. Nécessite au moins un <code>post_tye</code>  valide lors de sa création dans les paramètres. Pour certaines raisons <code>any</code> ne fonctionne pas correctement et sera mis à jour dans une version future."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:136
 msgid "The Custom Post Type Select option type displays a list of IDs from any available WordPress post type or custom post type. It allows the user to check multiple post IDs for use in a custom function or loop. Requires at least one valid <code>post_type</code> when created in the settings. For some reason <code>any</code> does not work correctly and will looked into in future version."
-msgstr ""
+msgstr "L'option \"Liste déroulante de type d'article personalisé (Custom post Type)\" affiche une liste d'ID de n'importe quel type d'article de Wordpress disponible ou de type d'article personnalisé. Il permet à l'utilisateur de slélectionner de multiples ID de poste pour utilisation dans une fonction personnalisée ou une boucle. Nécessite au moins un <code>post_tye</code>  valide lors de sa création dans les paramètres. Pour certaines raisons <code>any</code> ne fonctionne pas correctement et sera mis à jour dans une version future."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:139
 msgid "The list Item replaced the old Slider option type. It allows for a great deal of customization. You can add settings to the List Item and those settings will be displayed to the user when they add a new List Item. Typical use is for creating sliding content or blocks of code for custom layouts."
-msgstr ""
+msgstr "La liste d'élément a remplacé l'ancienne option \"Type de curseur\". Il permet une grande personnalisation. Vous pouvez ajouter des paramètres à la liste d'élément  et ces paramètres seront affichés à l'utilisateur quand il ajoute un nouvel élément de liste. Une utilisation typique est pour la création de contenu mobile ou des blocs de code pour des présentations personnalisées."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:142
 msgid "The Measurement option type is a mix of input and select fields. The text input excepts a value and the select lets you choose the unit of measurement to add to that value. Currently the default units are <code>px</code>, <code>%</code>, <code>em</code>, <code>pt</code>. However, you can change them with the <code>ot_measurement_unit_types</code> filter."
-msgstr ""
+msgstr "Le type d'option \"Mesure\" est un mélange d'entrée et de champs de sélection. La saisie de texte attend une valeur et la sélection vous permet de choisir l'unité de mesure à ajouter à cette valeur. Actuellement, les unités par défaut sont <code>px</code>, <code>%</code>, <code>em</code>, <code>pt</code>. Cependant, vous pouvez les modifier avec le filtre <code>ot_measurement_unit_types</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:144
 msgid "Example filter to add new units to the Measurement option type. Added to <code>functions.php</code>."
-msgstr ""
+msgstr "Exemple de filtre pour ajouter de nouvelles unités au type d'option \"Mesure\". Ajouté à <code>functions.php</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:157
 msgid "Example filter to completely change the units in the Measurement option type. Added to <code>functions.php</code>."
-msgstr ""
+msgstr "Exemple de filtre pour changer complètement les unités du type d'option \"Mesure\". Ajouté à <code>functions.php</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:173
 msgid "The Page Select option type displays a list of page IDs. It will return a single page ID for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option \"Liste déroulante de page\" affiche une liste d'ID de page. Il retournera un seul ID de page pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:176
 msgid "The Page Select option type displays a list of page IDs. It allows the user to check multiple page IDs for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option Sélection de page affiche une liste d'ID de page. Il permet à l'utilisateur de vérifier les ID de plusieurs pages pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:179
 msgid "The Post Select option type displays a list of post IDs. It will return a single post ID for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option \"Liste déroulante d'article (Post Select )\" affiche une liste des ID d'articles. Il retournera une seule ID d'article pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:182
 msgid "The Post Select option type displays a list of post IDs. It allows the user to check multiple post IDs for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option \"Liste déroulante d'article (Post select)\" affiche une liste d'ID d'articles .Il permet à l'utilisateur de sélectionner de multiple ID d'articles pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:185
 msgid "The Radio option type could ask a question. For example, \"Do you want to activate the custom navigation?\" could require a yes or no answer with a radio option. In this situation you would test if the radio has a value of 'yes' and execute a block of code, or if it's 'no' execute a different block of code."
-msgstr ""
+msgstr "Le type d'option \"Radio\" pourrait poser une question. Par exemple, \"Voulez-vous activer la navigation personnalisée?\" pourrait nécessiter une réponse oui ou non avec une option radio. Dans cette situation, vous pouvez tester si la radio a une valeur de «oui» et d'exécuter un bloc de code, ou si c'est «non» d'exécuter un autre bloc de code."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:188
 msgid "the Radio Images option type is primarily used for layouts. However, you can filter the image list using <code>ot_radio_images</code>. As well, you can add your own custom images using the choices array."
-msgstr ""
+msgstr "Le type d'option \"Radio Images\" est principalement utilisé pour les mises en pages. Cependant, vous pouvez filtrer la liste des images à l'aide <code>ot_radio_images</code>. En outre, vous pouvez ajouter vos propres images personnalisées à l'aide du tableau de choix."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:190
 msgid "This example executes the <code>ot_radio_images</code> filter on layout images attached to the <code>my_radio_images</code> field. Added to <code>functions.php</code>."
-msgstr ""
+msgstr "Cet exemple exécute le filtre <code>ot_radio_images</code> sur les images de mises en page attachés au champ <code>my_radio_images</code>. Ajouté à <code>functions.php</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:215
 msgid "The Select option type is used to list anything you want that would be chosen from a select list."
-msgstr ""
+msgstr "Le type d'option Liste déroulante est utilisé pour lister ce que vous voulez qui puisse être choisi dans une liste déroulante."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:218
 msgid "The Slider option type is technically deprecated. Use the List Item option type instead, as it's infinitely more customizable. Typical use is for creating sliding image content."
-msgstr ""
+msgstr "Le type d'option Slider est techniquement déprécié. Utilisez le type d'option \"Liste d'éléments\" à la place, comme il est infiniment plus personnalisable. Une utilisation typique est pour la création de contenu d'images coulissantes."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:221
 msgid "The Tag Checkbox option type displays a list of tag IDs. It allows the user to check multiple tag IDs and will return that value as an array for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option \" Case à cocher de Tag\" affiche une liste d'ID de tag. Il permet à l'utilisateur de sélectionner un ou plusieurs ID de Tag et renvoie cette valeur comme un tableau pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:224
 msgid "The Tag Select option type displays a list of tag IDs. It allows the user to select only one tag ID and will return that value for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option \"Liste déroulante de Tag\" affiche une liste d'ID de Tag. Il permet à l'utilisateur de sélectionner un seul Tag et retournera cette valeur pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:227
 msgid "The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows the user to check multiple taxonomy IDs and will return that value as an array for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option \"Case à cocher de taxonomie (Taxonomy Checkbox)\" option affiche une liste d'ID de taxonomie. Il permet à l'utilisateur de sélectionner une ou plusieurs ID de taxonomie et retournera cette valeur comme un tableau pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:230
 msgid "The Taxonomy Select option type displays a list of taxonomy IDs. It allows the user to select only one taxonomy ID and will return that value for use in a custom function or loop."
-msgstr ""
+msgstr "Le type d'option \"Liste déroulante de toxonomie (Taxonomy Select)\" affiche une liste d'ID de taxonomie. Il permet à l'utilisateur de sélectionner une seule ID de taxonomie et retournera cette valeur pour une utilisation dans une fonction personnalisée ou une boucle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:232
 msgid "Text (Input)"
-msgstr ""
+msgstr "Texte (En entréé)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:233
 msgid "The Text option type would be used to save a string value. For example, a link to feedburner, your Twitter username, or Google Analytics ID are all good candidates. Any optional or required text that is of reasonably short character length."
-msgstr ""
+msgstr "Le type d'option \"Texte\" serait utilisé pour enregistrer une valeur de chaîne de caractère. Par exemple, un lien vers feedburner, votre nom d'utilisateur Twitter, ou votre identifiant Google Analytics sont tous de bons candidats. Tout texte facultatif ou obligatoire qui est d'une longueur de caractère raisonnablement court."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:236
 msgid "The Textarea option type is a large string value used for custom code or text in the theme. The new Textarea has a WYSIWYG editor that can be filtered to change the buttons shown. For example, you can filter on <code>wpautop</code>, <code>media_buttons</code>, <code>tinymce</code>, and <code>quicktags</code>."
-msgstr ""
+msgstr "Le type d'option \"Zone de texte (Textarea)\" est une grande chaîne de caractère utilisée pour du code personnalisé ou un texte dans le thème. La nouvelle \"Zone de texte (Textarea)\" a un éditeur WYSIWYG qui peut être filtré pour changer les boutons affichés. Par exemple, vous pouvez filtrer sur <code>wpautop</code>, <code>media_buttons</code>, <code>tinymce</code>, and <code>quicktags</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:238
 msgid "Example filters to alter the Textarea option type. Added to <code>functions.php</code>."
-msgstr ""
+msgstr "Exemples de filtres pour modifier le type d'option \"Zone de texte (Textarea)\". Ajouté à <code>functions.php</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:240
 msgid "This example keeps WordPress from executing the <code>wpautop</code> filter on the line breaks. The default is <code>true</code> which means it wraps line breaks with an HTML <code>p</code> tag."
-msgstr ""
+msgstr "Cet exemple empêche WordPress d'exécuterle filtre <code>wpautop</code> sur les sauts de ligne. La valeur par défaut est <code>true</code> ce qui signifie qu'il enveloppe les sauts de ligne avec une balise HTML <code>p</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:253
 msgid "This example keeps WordPress from executing the <code>media_buttons</code> filter on the textarea WYSIWYG. The default is <code>true</code> which means show the buttons."
-msgstr ""
+msgstr "Cet exemple empêche Wordpress d'exécuter le filtre <code>media_buttons</code> sur la zone de texte WYSIWYG. La valeur par défaut est <code>true</code> qui signifie \"montrer les boutons\"."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:266
 msgid "This example keeps WordPress from executing the <code>tinymce</code> filter on the textarea WYSIWYG. The default is <code>true</code> which means show the tinymce."
-msgstr ""
+msgstr "Cet exemple empêche Wordpress d'exécuter le filtre <code>tinymce</code> sur la zone de texte WYSIWYG. La valeur par défaut est <code>true</code> qui signifie \"montrer le tinymce\"."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:279
 msgid "This example alters the <code>quicktags</code> filter on the textarea WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,ins,img,ul,ol,li,code,spell,close' )</code> which means show those quicktags. It also means you can filter in your own custom quicktags."
-msgstr ""
+msgstr "Cet exemple empêche Wordpress d'exécuter le filtre <code>quicktags</code> sur la zone de texte WYSIWYG. La valeur par défaut est <code>array( 'buttons' => 'strong,em,link,block,del,ins,img,ul,ol,li,code,spell,close' )</code> qui signifie \"montrer ces quicktags\".Il signifie également que vous pouvez filtrer vos propres quicktags personnalisés."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:295
 msgid "The Textarea Simple option type is a large string value used for custom code or text in the theme. The new Textarea Simple does not have a WYSIWYG editor. But you can still filter on <code>wpautop</code>."
-msgstr ""
+msgstr "Le type d'option \"Zone de texte simple (Textarea Simple)\" est une valeur chaîne de caractère de grande taille utilisée pour du code ou un texte personnalisé  dans le thème. La  \"Zone de texte simple (Textarea Simple)\" n'a pas un éditeur WYSIWYG. Mais vous pouvez toujours filtrer sur <code>wpautop</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:297
 msgid "This example tells WordPress to execute the <code>wpautop</code> filter on the line breaks. The default is <code>false</code> which means it does not wraps line breaks with an HTML <code>p</code> tag. Added to <code>functions.php</code>."
-msgstr ""
+msgstr "Cet exemple demande à WordPress d'exécuter le filtre <code>wpautop</code> sur les sauts de ligne. La valeur par défaut est <code>false</code> ce qui signifie qu'il n'englobe pas les sauts de ligne avec une balise HTML <code>p</code>. Ajouté à <code>functions.php</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:311
 msgid "The Textblock option type is used only on the Theme Option page. It will allow you to create & display HTML on your Theme Options page but has no title above the text block. You can then use the Textblock to add a more detailed set of instruction on how the options are used in your theme. You would NEVER use this in your themes template files as it does not save a value."
-msgstr ""
+msgstr "Le type d'option \"Bloc de texte (TextBlock)\" est utilisé uniquement sur la page d'option du thème. Il vous permettra de créer et afficher du code HTML sur la page des options du thème, mais n'a pas de titre au-dessus du bloc de texte. Vous pouvez utiliser le \"Bloc de texte (TextBlock)\" pour ajouter un ensemble plus détaillé d'instructions sur la façon dont les options sont utilisées dans votre thème. Vous ne devez JAMAIS l'utiliser dans vos fichiers de modèle de thème car il ne sauve pas de valeur."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:314
 msgid "The Textblock Titled option type is used only on the Theme Option page. It will allow you to create & display HTML on your Theme Options page and has a title above the text block. You can then use the Textblock Titled to add a more detailed set of instruction on how the options are used in your theme. You would NEVER use this in your themes template files as it does not save a value."
-msgstr ""
+msgstr "Le type d'option \"Bloc de texte avec titre (Textblock Titled)\" est utilisé uniquement sur la page \"Option du Thème\". Il vous permettra de créer et afficher le code HTML sur la page \"Option du Thème\" et dispose d'un titre au-dessus du bloc de texte. Vous pouvez ensuite utiliser le \"Bloc de texte avec titre (Textblock Titled)\" pour ajouter un ensemble plus détaillé d'instructions sur la façon dont les options sont utilisées dans votre thème. Vous ne devez JAMAIS l'utiliser dans vos fichiers de modèle de thème car il ne sauve pas de valeur."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:317
 msgid "The Typography option type is for adding typographic styles to your theme either dynamically via the CSS option type below or manually with <code>ot_get_option()</code>. Typography has filters that allow you to change the defaults. For example, you can filter on <code>ot_recognized_font_styles</code>, <code>ot_recognized_font_weights</code>, <code>ot_recognized_font_variants</code>, and <code>ot_recognized_font_families</code>. These filters allow you to fine tune the select lists for your specific CSS needs. The most important one though is <code>ot_recognized_font_families</code> as you can add your Google Fonts to create custom font stacks."
-msgstr ""
+msgstr "Le type d'option \"Typographie\" est pour l'ajout de styles typographiques à votre thème soit dynamiquement via le type d'option CSS ci-dessous ou manuellement avec <code>ot_get_option()</code>. Typographie est doté de filtres qui vous permettent de changer les valeurs par défaut. Par exemple, vous pouvez filtrer par <code>ot_recognized_font_styles</code>, <code>ot_recognized_font_weights</code>, <code>ot_recognized_font_variants</code>, and <code>ot_recognized_font_families</code>. Ces filtres vous permettent d'affiner les listes de sélection pour vos besoins spécifiques CSS. Le plus important cependant est <code>ot_recognized_font_families</code> comme vous pouvez ajouter vos polices de Google pour créer des groupements de polices personnalisés."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:319
 msgid "This example would filter <code>ot_recognized_font_families</code> to build your own font stack. Added to <code>functions.php</code>."
-msgstr ""
+msgstr "Cet exemple filtrerait <code>ot_recognized_font_families</code> pour construire votre propre groupement de polices. Ajouté à <code>functions.php</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:337
 msgid "The Upload option type is used to upload any WordPress supported media. After uploading, users are required to press the \"Send to OptionTree\" button in order to populate the input with the URI of that media. There is one caveat of this feature. If you import the theme options and have uploaded media on one site the old URI will not reflect the URI of your new site. You'll have to re-upload or FTP any media to your new server and change the URIs if necessary."
-msgstr ""
+msgstr "Le type d'option \"Téléversement (Upload)\" est utilisé pour téléverser(envoyer sur un serveur, le contraire de télécharger) tous les médias soutenus par WordPress. Après le téléversement (Upload), les utilisateurs doivent appuyer sur le bouton \"Envoyer à OptionTree\" afin d'afficher dans le champ l'URI du média. Il y a une mise en garde de cette fonctionnalité. Si vous importez les options du thème que vous aviez téléversé sur un site, l'ancienne URI est différente de l'URI de votre nouveau site. Vous aurez à re-téléverser ou envoyer par FTP tous les médias vers votre nouveau serveur et de modifier l'URI, si nécessaire."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:369
 msgid "This function returns a value from the \"option_tree\" array of saved values or the default value supplied. The returned value would be mixed. Meaning it could be a string, integer, boolean, or array."
-msgstr ""
+msgstr "Cette fonction retourne une valeur depuis le tableau \"option_tree\" de valeurs enregistrées ou la valeur par défaut fournie. La valeur retournée serait mixte. Ce qui signifie quelle pourrait être une chaîne, un entier, un booléen ou un tableau."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:371
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:421
 msgid "Usage"
-msgstr ""
+msgstr "Usage"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:375
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:425
 msgid "Parameters"
-msgstr ""
+msgstr "Paramètres"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:379
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:383
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:429
 msgid "string"
-msgstr ""
+msgstr "chaîne de caractère"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:379
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:429
 msgid "required"
-msgstr ""
+msgstr "requis"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:379
 msgid "Enter the options unique identifier."
-msgstr ""
+msgstr "Entrez l'identifiant unique des options."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:379
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:429
 msgid "Default:"
-msgstr ""
+msgstr "Par défaut:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:379
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:383
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:429
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:433
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:383
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:433
@@ -953,11 +953,11 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:441
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:445
 msgid "optional"
-msgstr ""
+msgstr "optionnel"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:383
 msgid "Enter a default return value. This is just incase the request returns null."
-msgstr ""
+msgstr "Entrez une valeur de retour par défaut. C'est juste au cas où la demande renvoie null."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:383
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:433
@@ -965,308 +965,308 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:441
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:445
 msgid "Default"
-msgstr ""
+msgstr "Par défaut"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:413
 msgid "This function has been deprecated. That means it has been replaced by a new function or is no longer supported, and may be removed from future versions. All code that uses this function should be converted to use its replacement."
-msgstr ""
+msgstr "Cette fonction a été dépréciée. Cela signifie qu'elle a été remplacé par une nouvelle fonction ou n'est plus supportée, et peut être enlevée des futures versions. Tout le code qui utilise cette fonction devrait être converti pour utiliser son remplacant."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:415
 msgid "Use"
-msgstr ""
+msgstr "Utiliser"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:415
 msgid "instead"
-msgstr ""
+msgstr "à la place"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:419
 msgid "This function returns, or echos if asked, a value from the \"option_tree\" array of saved values."
-msgstr ""
+msgstr "Cette fonction retourne, ou affiche par \"echo\" si on lui demande, une valeur du tableau  \"option_tree\" des valeurs enregistrées."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:429
 msgid "Enter a unique Option Key to get a returned value or array."
-msgstr ""
+msgstr "Entrez une clé d'option unique pour obtenir une valeur retournée ou un tableau."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:433
 msgid "array"
-msgstr ""
+msgstr "tableau"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:433
 msgid "Used to cut down on database queries in template files."
-msgstr ""
+msgstr "Utilisé pour réduire les requêtes de bases de données dans les fichiers modèles."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:437
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:441
 msgid "boolean"
-msgstr ""
+msgstr "booléen"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:437
 msgid "Echo the output."
-msgstr ""
+msgstr "Affiche la sortie."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:441
 msgid "Used to indicate the $item_id is an array of values."
-msgstr ""
+msgstr "Utilisé pour indiquer si $item_id est un tableau de valeurs."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:445
 msgid "integer"
-msgstr ""
+msgstr "entier"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:445
 msgid "Numeric offset key for the $item_id array, -1 will return all values (an array starts at 0)."
-msgstr ""
+msgstr "Clé numérique de décalage pour le tableau $item_id, -1 renverra toutes les valeurs (un tableau commence à 0)."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:473
 msgid "If you're using the plugin version of OptionTree it is highly recommended to include a <code>function_exists</code> check in your code, as described in the examples below. If you've integrated OptionTree directly into your themes root directory, you will <strong>not</strong> need to wrap your code with <code>function_exists</code>, as you're guaranteed to have the <code>ot_get_option()</code> function available."
-msgstr ""
+msgstr "Si vous utilisez la version du plugin de OptionTree il est fortement recommandé d'inclure une vérification <code>function_exists</code> dans votre code, tel que décrit dans les exemples ci-dessous. Si vous avez intégré OptionTree directement dans votre arborescence de répertoire de votre thème, vous n'aurez <strong>pas</strong> besoin d'envelopper votre code avec <code>function_exists</code>, car vous êtes assuré d'avoir la fonction <code>ot_get_option()</code> disponible."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:475
 msgid "String Examples"
-msgstr ""
+msgstr "Examples de chaines de caractères"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:477
 msgid "Returns the value of <code>test_input</code>."
-msgstr ""
+msgstr "Retourne la valeur de <code>test_input</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:483
 msgid "Returns the value of <code>test_input</code>, but also has a default value if it returns empty."
-msgstr ""
+msgstr "Retourne la valeur de <code>test_input</code>, mais a aussi une valeur par défaut si elle retourne une valeur vide."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:489
 msgid "Array Examples"
-msgstr ""
+msgstr "Exemples de tableau"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:491
 msgid "Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</code>. It then echos an unordered list of links (navigation) using <code>wp_list_pages()</code>."
-msgstr ""
+msgstr "Assigne la valeur de <code>navigation_ids</code> à la varialbe <code>$ids</code>. Il affiche ensuite une liste non ordonée de liens (navigation) en utilisant <code>wp_list_pages()</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:511
 msgid "The next two examples demonstrate how to use the <strong>Measurement</strong> option type. The Measurement option type is an array with two key/value pairs. The first is the value of measurement and the second is the unit of measurement."
-msgstr ""
+msgstr "Les deux exemples suivants montrent comment utiliser le type d'option <strong>Mesure (Measurement)</strong>. Le type d'option \"Mesure (Measurement)\" est un tableau avec deux paires clé/valeur. Le premier est la valeur de mesure et la seconde l'unité de mesure."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:537
 msgid "This example displays a very basic slider loop."
-msgstr ""
+msgstr "Cet exemple affiche une boucle de slider très basique."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:582
 msgid "It's Super Simple"
-msgstr ""
+msgstr "C'est super simple"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:584
 msgid "Layouts make your theme awesome! With theme options data that you can save/import/export you can package themes with different color variations, or make it easy to do A/B testing on text and so much more. Basically, you save a snapshot of your data as a layout."
-msgstr ""
+msgstr "Les mises en page rendent votre thème génial! Avec les données d'options du thème que vous pouvez enregistrer/importer/exporter, vous pouvez embarquer dans votre thème des variations de couleurs différentes, ou de faciliter les tests A/B sur le texte et bien plus encore. Fondamentalement, vous enregistrez un instantané de vos données comme une mise en page."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:586
 msgid "Once you have created all your different layouts, or theme variations, you can save them to a separate text file for repackaging with your theme. Alternatively, you could just make different variations for yourself and change your theme with the click of a button, all without deleting your previous options data."
-msgstr ""
+msgstr "Une fois que vous avez créé toutes vos différentes mises en page , ou des variations de votre thème, vous pouvez les enregistrer dans un fichier texte séparé pour les distribuer avec votre thème. Alternativement, vous pouvez simplement faire des variations différentes pour vous-même et changer votre thème avec le clic d'un bouton, le tout sans la suppression de vos précédentes données sur les options."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:588
 msgid " Adding a layout is ridiculously easy, follow these steps and you'll be on your way to having a WordPress super theme."
-msgstr ""
+msgstr "Ajouter une mise en page est ridiculement facile, suivez ces étapes et vous serez sur la voie d'avoir un super thème WordPress."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:590
 msgid "For Developers"
-msgstr ""
+msgstr "Pour les développeurs"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:591
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:621
 msgid " "
-msgstr ""
+msgstr " "
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:593
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:623
 msgid "Creating a Layout"
-msgstr ""
+msgstr "Création d'une mise en page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:595
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:602
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:608
 msgid "Go to the <code>OptionTree->Settings->Layouts</code> tab."
-msgstr ""
+msgstr "Allez sur l'onglet <code>OptionTree->Paramètres->Mises en page</code> "
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:596
 msgid "Enter a name for your layout in the text field and hit \"Save Layouts\", you've created your first layout."
-msgstr ""
+msgstr "Entrer une nom pour votre mise en page dans le champ texte et cliquer sur \"Enregistrer les mises en page\", vous avez créer votre première mise en page."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:597
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:627
 msgid "Adding a new layout is as easy as repeating the steps above."
-msgstr ""
+msgstr "Ajout d'une nouvelle mise en page est aussi facile que de répéter les étapes ci-dessus."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:600
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:630
 msgid "Activating a Layout"
-msgstr ""
+msgstr "Activer une mise en page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:603
 msgid "Click on the activate layout button in the actions list."
-msgstr ""
+msgstr "Cliquez sur le bouton \"Activer la mise en page\" dans la liste des actions."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:606
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:636
 msgid "Deleting a Layout"
-msgstr ""
+msgstr "Supprimer une mise en page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:609
 msgid "Click on the delete layout button in the actions list."
-msgstr ""
+msgstr "Cliquez sur le bouton supprimer mise en page dans la liste des actions."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:612
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:641
 msgid "Edit Layout Data"
-msgstr ""
+msgstr "Editer les données de mise en page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:614
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:625
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:632
 msgid "Go to the <code>Appearance->Theme Options</code> page."
-msgstr ""
+msgstr "Allez sur la page <code>Apparence->Options du thème</code>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:615
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:644
 msgid "Modify and save your theme options and the layout will be updated automatically."
-msgstr ""
+msgstr "Modifiez et enregistrez vos options de thème et la mise en page sera mise à jour automatiquement."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:616
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:645
 msgid "Saving theme options data will update the currently active layout, so before you start saving make sure you want to modify the current layout."
-msgstr ""
+msgstr "Sauver les de données d'options de thème mettra à jour la mise en page actuellement active, alors avant de commencer à enregistrer, assurez-vous de vouloir modifier la configuration actuelle."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:617
 msgid "If you want to edit a new layout, first create it then save your theme options."
-msgstr ""
+msgstr "Si vous souhaitez editer une  nouvelle mise en page, créer la d'abord et ensuite enregistrer vos options de thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:620
 msgid "End-Users Mode"
-msgstr ""
+msgstr "Mode Utilisateur Final"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:626
 msgid "Enter a name for your layout in the text field and hit \"New Layout\", you've created your first layout."
-msgstr ""
+msgstr "Entrez un nom pour votre mise en page dans le champ texte et cliquez sur \"Nouvelle mise en page \", vous avez créé votre première mise en page."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:633
 msgid "Choose a layout from the select list and click the \"Activate Layout\" button."
-msgstr ""
+msgstr "Choisissez une mise en page dans la liste déroulante et cliquez sur le bouton \"Activer mise en page\"."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:638
 msgid "End-Users mode does not allow deleting layouts."
-msgstr ""
+msgstr "Le mode utilisateur final ne permet pas la suppression de mises en page."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:643
 msgid "Go to the <code>Appearance->Theme Options</code> tab."
-msgstr ""
+msgstr "Allez à l'onglet <code>Apparence->Options du thème</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:674
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:756
 msgid "How-to-guide"
-msgstr ""
+msgstr "Guide du \"Comment-faire\""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:676
 msgid "There are a few simple steps you need to take in order to use OptionTree's built in Meta Box API. In the code below I'll show you a basic demo of how to create your very own custom meta box using any number of the option types you have at your disposal. If you would like to see some demo code, there is a directory named <code>theme-mode</code> inside the <code>assets</code> directory that contains a file named <code>demo-meta-boxes.php</code> you can reference."
-msgstr ""
+msgstr "Il y a quelques étapes simples que vous devez prendre dans l'ordre afin de pouvoir utiliser l'API Meta Box incluse dans OptionTree. Dans le code ci-dessous je vais vous montrer une démo de base sur la façon de créer votre MetaBox personnalisée à l'aide de n'importe quel nombre d'options de type que vous avez à votre disposition. Si vous souhaitez voir un peu de code de démonstration, il y a un répertoire nommé <code>theme-mode</code> à l'intérieur du répertoire <code>assets</code> qui contient un fichier nommé <code>demo-meta-boxes.php</code> auquel vous pouvez vous référer."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:678
 msgid "It's important to note that Meta Boxes do not support WYSIWYG editors at this time and if you set one of your options to Textarea it will automatically revert to a Textarea Simple until a valid solution is found. WordPress released this statement regarding the wp_editor() function:"
-msgstr ""
+msgstr "Il est important de noter que les MetaBox ne prennent pas en charge les éditeurs WYSIWYG en ce moment et si vous définissez l'une de vos options en \"Zone de texte (Textarea)\" elle sera automatiquement convertie en une \"Zone de texte simple (Textarea simple)\" jusqu'à ce qu'une solution valable ne soit trouvée. WordPress a publié la déclaration suivante concernant la fonction wp_editor() :"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:680
 msgid "Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. What this means in practical terms, is that you cannot put it in meta-boxes that can be dragged and placed elsewhere on the page."
-msgstr ""
+msgstr "Une fois instancié, l'éditeur WYSIWYG ne peut pas être déplacé dans les DOM. Ce qui signifie en termes pratiques, que vous ne pouvez pas le mettre dans des MetaBox qui peuvent être glissés et placés ailleurs sur la page."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:682
 msgid "Create and include your custom meta boxes file."
-msgstr ""
+msgstr "Créer et inclure votre fichier de MetaBox personnalisée."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:684
 msgid "Create a file and name it anything you want, maybe <code>meta-boxes.php</code>."
-msgstr ""
+msgstr "Créer un fichier et nommez-le comme vous voulez, peut-être <code>meta-boxes.php</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:685
 msgid "As well, you'll probably want to create a directory named <code>includes</code> to put your <code>meta-boxes.php</code> into which will help keep you file structure nice and tidy."
-msgstr ""
+msgstr "En outre, vous aurez probablement envie de créer un répertoire nommé <code>includes</code> pour mettre votre <code>meta-boxes.php</code> dedans, cela vous aidera à garder une structure de fichier agréable et soignée."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:686
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:791
 msgid "Add the following code to your <code>functions.php</code>."
-msgstr ""
+msgstr "Ajouter le code suivant à votre <code>functions.php</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:696
 msgid "Add a variation of the following code to your <code>meta-boxes.php</code>. You'll obviously need to fill it in with all your custom array values. It's important to note here that we use the <code>admin_init</code> filter because if you were to call the <code>ot_register_meta_box</code> function before OptionTree was loaded the sky would fall on your head."
-msgstr ""
+msgstr "Ajouter une variation du code suivant à votre <code>meta-boxes.php</code>. Vous aurez évidemment besoin de le remplir avec toutes vos tableaux de valeurs personnalisées. Il est important de noter ici que nous utilisons le filtre <code>admin_init</code>parce que si vous aviez appelé la fonction <code>ot_register_meta_box</code> avant que OptionTree n'aie été chargé le ciel vous tomberait sur la tête."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:758
 msgid "There are a few simple steps you need to take in order to use OptionTree as a theme included module. In the code below I'll show you a basic demo of how to include the entire plugin as a module, which will allow you to have the most up-to-date version of OptionTree without ever needing to hack the core of the plugin. If you would like to see some demo code, there is a directory named <code>theme-mode</code> inside the <code>assets</code> directory that contains a file named <code>demo-theme-options.php</code> you can reference."
-msgstr ""
+msgstr "Il y a quelques étapes simples que vous devez prendre dans l'ordre afin de pouvoir utiliser OptionTree comme un  module inclus dans un thème. Dans le code ci-dessous je vais vous montrer une démo de base sur la façon d'inclure le plugin entier en tant que module, qui vous permettra d'avoir la version la plus à jour de OptionTree sans jamais avoir besoin de pirater le noyau du plugin. Si vous souhaitez voir un peu de code démo, il ya un répertoire nommé <code>theme-mode</code> à l'intérieur du répertoire <code>assets</code> qui contient un fichier nommé <code>demo-theme-options.php</code> auquel vous pouvez vous référer."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:760
 msgid "Step 1: Include the plugin & turn on theme mode."
-msgstr ""
+msgstr "Étape 1: Inclure le plugin & activer le mode thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:762
 msgid "Download the latest version of <a href=\"http://wordpress.org/extend/plugins/option-tree/\" rel=\"nofollow\" target=\"_blank\">OptionTree</a>."
-msgstr ""
+msgstr "Télécherger la dernière version de <a href=\"http://wordpress.org/extend/plugins/option-tree/\" rel=\"nofollow\" target=\"_blank\">OptionTree</a>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:763
 msgid "Unpack the ZIP archive."
-msgstr ""
+msgstr "Décompressez l'archive ZIP."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:764
 msgid "Put the <code>option-tree</code> directory in the root of your theme. For example, the server path would be <code>/wp-content/themes/theme-name/option-tree/</code>."
-msgstr ""
+msgstr "Mettre le répertoire <code>option-tree</code> à la base de votre thème. par exemple, le chemin du serveur pourrait être <code>/wp-content/themes/theme-name/option-tree/</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:765
 msgid "Add the following code to the beginning of your <code>functions.php</code>."
-msgstr ""
+msgstr "Ajouter le code suivant à votre <code>functions.php</code>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:785
 msgid "It's that simple! You now have OptionTree built into your theme and anytime there's an update to the plugin you just replace the old version and you're good to go.."
-msgstr ""
+msgstr "C'est aussi simple que cela! Vous avez maintenant OptionTree inclus dans votre thème et, à tout moment, s'il y a une mise à jour du plugin, vous aurez juste a remplacer l'ancienne version par la nouvelle et vous êtes bon."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:787
 msgid "Step 2: Create Theme Options without using the UI Builder."
-msgstr ""
+msgstr "Étape 2: Créer les options du thème sans l'aide du Générateur d'UI."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:789
 msgid "Create a file and name it anything you want, maybe <code>theme-options.php</code>, or use the built in file export to create it for you. Remember, you should always check the file for errors before including it in your theme."
-msgstr ""
+msgstr "Créer un fichier et nommez-le comme vous voulez, peut-être <code>theme-options.php</code>; ou utiliser l'exportation de fichier incluse pour le créer pour vous. Rappelez-vous, vous devriez toujours vérifier que le fichier ne contient pas d'erreurs avant de l'inclure dans votre thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:790
 msgid "As well, you'll probably want to create a directory named <code>includes</code> to put your <code>theme-options.php</code> into which will help keep you file structure nice and tidy."
-msgstr ""
+msgstr "En outre, vous aurez probablement envie de créer un répertoire nommé <code>includes</code> pour mettre votre <code>theme-options.php</code> ce qui vous aidera à garder votre structure de fichiers bien structurée et bien rangée."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:801
 msgid "Add a variation of the following code to your <code>theme-options.php</code>. You'll obviously need to fill it in with all your custom array values for contextual help (optional), sections (required), and settings (required)."
-msgstr ""
+msgstr "Ajouter une variation du code suivant à votre <code>theme-options.php</code>. Vous aurez évidemment besoin de le remplir avec toutes vos tableaux de valeurs personnalisées pour l'aide contextuelle (en option), des sections (obligatoire), et les paramètres (obligatoire)."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-docs-page.php:804
 msgid "The code below is a boilerplate to get your started. For a full list of the available option types click the \"Option Types\" tab above. Also a quick note, you don't need to put OptionTree in theme mode to manually create options but you will want to hide the docs and settings as each time you load the admin area the settings will be written over with the code below if they've changed in any way. However, this ensures your settings do not get tampered with by the end-user."
-msgstr ""
+msgstr "Le code ci-dessous est une base pour vous permettre de débuter. Pour une liste complète des types d'options disponibles, cliquez sur l'onglet \"Types d'option\" ci-dessus. Aussi un petit mot, vous n'avez pas besoin de mettre OptionTree en mode thème pour créer manuellement les options, mais si vous souhaitez masquer les docs et les paramètres à chaque fois que vous chargez la zone d'administration, les paramètres seront réécris avec le code ci-dessous si elles onti changé de quelque façon. Cependant, c'est ce ce qui assure vos paramètres ne soient pas altérés par l'utilisateur final."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:46
 msgid "Sorry, this function does not exist"
-msgstr ""
+msgstr "Désolé, cette fonction n'existe pas"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:107
 msgid "background-repeat"
-msgstr ""
+msgstr "background-repeat"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:116
 msgid "background-attachment"
-msgstr ""
+msgstr "background-attachment"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:125
 msgid "background-position"
-msgstr ""
+msgstr "background-position"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:140
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:1671
 msgid "Add Media"
-msgstr ""
+msgstr "Ajouter média"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:210
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:264
 msgid "No Categories Found"
-msgstr ""
+msgstr "Aucune catégorie trouvée"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:259
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:519
@@ -1275,316 +1275,316 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:1196
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:1312
 msgid "Choose One"
-msgstr ""
+msgstr "Choisissez un/une"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:467
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:525
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:893
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:948
 msgid "No Posts Found"
-msgstr ""
+msgstr "Aucun article trouvé"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:596
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:835
 msgid "Add New"
-msgstr ""
+msgstr "Ajouter nouveau"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:599
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:838
 msgid "You can re-order with drag & drop, the order will update after saving."
-msgstr ""
+msgstr "Vous pouvez ré-arranger avec le glisser/déposer, la commande sera mise à jour après l'enregistrement."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:709
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:764
 msgid "No Pages Found"
-msgstr ""
+msgstr "Aucune page trouvée"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:1147
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:1201
 msgid "No Tags Found"
-msgstr ""
+msgstr "Aucun tag trouvé"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:1260
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-option-types.php:1317
 msgid "No Taxonomies Found"
-msgstr ""
+msgstr "Aucune taxonomie trouvée"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:35
 msgid "Warning!"
-msgstr ""
+msgstr "Attention !"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:36
 #, php-format
 msgid "Go to the %s page if you want to save data, this page is for adding settings."
-msgstr ""
+msgstr "Allez sur la page %s si vous voulez sauver vos données, cette page sert à ajouter des paramètres."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:36
 msgid "<code>Appearance->Theme Options</code>"
-msgstr ""
+msgstr "<code>Apparence->Options du thème</code>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:37
 #, php-format
 msgid "If you're unsure or not completely positive that you should be editing these settings, you should read the %s first."
-msgstr ""
+msgstr "Si vous n'êtes pas sûr de devoir modifier ces paramètres, vous devriez lire d'abord lire  %s."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:37
 msgid "<code>OptionTree->Documentation</code>"
-msgstr ""
+msgstr "<code>OptionTree->Documentation</code>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:38
 msgid "Things could break or be improperly displayed to the end-user if you do one of the following:"
-msgstr ""
+msgstr "Les options pourraient mal fonctionner ou être mal affichées à l'utilisateur final si vous effectuez l'une des opérations suivantes:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:39
 msgid "Give two sections the same ID, give two settings the same ID, give two contextual help content areas the same ID, don't create any settings, or have a section at the end of the settings list."
-msgstr ""
+msgstr "Donner à deux sections le même ID, donner à deux options le même ID, donner à deux zones d'aide contextuelle le même ID, ne pas créer du tout d'options ou avoir une section à la fin de la liste d'options."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:40
 msgid "You can create as many settings as your project requires and use them how you see fit. When you add a setting here, it will be available on the Theme Options page for use in your theme. To separate your settings into sections, click the \"Add Section\" button, fill in the input fields, and a new navigation menu item will be created."
-msgstr ""
+msgstr "Vous pouvez créer autant de paramètres que votre projet en nécessite et les utiliser comme bon vous semble. Lorsque vous ajoutez un paramètre ici, il sera disponible sur la page Options du thème pour une utilisation dans votre thème. Pour séparer vos paramètres en sections, cliquez sur le bouton \"Ajouter une section\", remplissez les champs d'entrée, et un nouvel élément de menu de navigation sera créé."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:41
 msgid "All of the settings can be sorted and rearranged to your liking with Drag & Drop. Don't worry about the order in which you create your settings, you can always reorder them."
-msgstr ""
+msgstr "Tous les paramètres peuvent être triés et ré-arrangés à votre goût par Glisser/Déposer. Ne vous inquiétez pas de l'ordre dans lequel vous créez vos paramètres, vous pouvez toujours les réorganiser."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:92
 msgid "Add Section"
-msgstr ""
+msgstr "Ajouter une section"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:94
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:133
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-theme-options.php:42
 msgid "Save Changes"
-msgstr ""
+msgstr "Sauver les changements"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:99
 msgid "Contextual Help"
-msgstr ""
+msgstr "Aide contextuelle"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:103
 msgid "Contextual Help Sidebar"
-msgstr ""
+msgstr "Barre latérale d'aide contextuelle "
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:103
 msgid "If you decide to add contextual help to the Theme Option page, enter the optional \"Sidebar\" HTML here. This would be an extremely useful place to add links to your themes documentation or support forum. Only after you've added some content below will this display to the user."
-msgstr ""
+msgstr "Si vous décidez d'ajouter une aide contextuelle à la page d'options du thème, entrez l'optionnel code HTML \"Barre latérale\" ici. Ce serait un endroit extrêmement utile pour ajouter des liens vers la documentation de votre thème ou votre forum de support. C'est seulement après que vous ayez ajouté du contenu ci-dessous que l'utilisateur final le verra."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:132
 msgid "Add Contextual Help Content"
-msgstr ""
+msgstr "Ajouter du contenu d'aide contextuelle"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:168
 msgid "This import method has been deprecated. That means it has been replaced by a new method and is no longer supported, and may be removed from future versions. All themes that use this import method should be converted to use its replacement below."
-msgstr ""
+msgstr "Cette méthode d'importation a été dépréciée. Cela signifie qu'elle a été remplacée par une nouvelle méthode et n'est plus supportée, et peut être enlevée des futures versions. Tous les thèmes qui utilisent cette méthode d'importation devraient être convertis pour utiliser son remplacement ci-dessous."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:170
 msgid "If you were given a Theme Options XML file with a premium or free theme, locate it on your hard drive and upload that file by clicking the blue upload button. A popup window will appear, upload the XML file and click \"Send to OptionTree\". The file URL should be in the upload input, if it is click \"Import XML\"."
-msgstr ""
+msgstr "Si vous avez reçu un fichier XML Options du thème avec un thème premium ou gratuit, localisez le sur votre disque dur et téléverser ce fichier en cliquant sur le bouton bleu de téléversement (Upload). Une fenêtre apparaîtra, téléverser le fichier XML, puis cliquez sur \"Envoyer à OptionTree\". L'URL du fichier devrait être dans le champ de téléversement (Upload), si elle y est, cliquer sur \"Importer XML\"."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:173
 msgid "Import XML"
-msgstr ""
+msgstr "Importer XML"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:189
 msgid "Add XML"
-msgstr ""
+msgstr "Ajouter XML"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:226
 msgid "To import your Settings copy and paste what appears to be a random string of alpha numeric characters into this textarea and press the \"Import Settings\" button."
-msgstr ""
+msgstr "Pour importer vos paramètres, copier et coller ce qui semble être une chaîne aléatoire de caractères alphanumériques dans cette zone de texte et appuyez sur le bouton \"Importer les paramètres\"."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:229
 msgid "Import Settings"
-msgstr ""
+msgstr "Importer les paramètres"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:271
 msgid "Only after you've imported the Settings should you try and update your Theme Options."
-msgstr ""
+msgstr "C'est seulement après avoir importé les paramètres que vous devriez essayer de mettre à jour vos options de thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:273
 msgid "To import your Theme Options copy and paste what appears to be a random string of alpha numeric characters into this textarea and press the \"Import Theme Options\" button."
-msgstr ""
+msgstr "Pour importer vos options de thème, copier et coller ce qui semble être une chaîne aléatoire de caractères alphanumériques dans cette zone de texte et appuyez sur le bouton \"Import des options du thème\"."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:276
 msgid "Import Theme Options"
-msgstr ""
+msgstr "Import des options du thème"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:318
 msgid "Only after you've imported the Settings should you try and update your Layouts."
-msgstr ""
+msgstr "C'est seulement après avoir importé les paramètres que vous devriez essayer de mettre à jour vos mises en page."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:320
 msgid "To import your Layouts copy and paste what appears to be a random string of alpha numeric characters into this textarea and press the \"Import Layouts\" button. Keep in mind that when you import your layouts, the active layout's saved data will write over the current data set for your Theme Options."
-msgstr ""
+msgstr "Pour importer votre copie de mises en page, copier et coller ce qui semble être une chaîne aléatoire de caractères alphanumériques dans cette zone de texte et appuyez sur le bouton \"Import des mises en page\". Gardez à l'esprit que lorsque vous importez vos mises en page, les données importées écraseront vos mises en page actuelle configurées dans les options de votre thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:323
 msgid "Import Layouts"
-msgstr ""
+msgstr "Import des mises en page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:366
 #, php-format
 msgid "Export your Settings into a fully functional <code>theme-options.php</code> file by clicking this button. For more information on how to use this file read the theme mode %s. Remember, you should always check the file for errors before including it in your theme."
-msgstr ""
+msgstr "Exporter vos options dans un fichier <code>theme-options.php</code> pleinement fonctionnel en cliquant sur ce bouton. Pour plus d'informations sur l'utilisation de ce fichier, lire le mode theme dans %s. Mais rappelez-vous, vous devez toujours vérifier l'absence d'erreurs dans votre fichier avant de l'inclure dans votre theme."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:373
 msgid "Export Settings File"
-msgstr ""
+msgstr "Exporter un fichier de vos options"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:403
 msgid "Export your Settings by highlighting this text and doing a copy/paste into a blank .txt file. Then save the file for importing into another install of WordPress later. Alternatively, you could just paste it into the <code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea on another web site."
-msgstr ""
+msgstr "Exportez vos paramètres en surlignant ce texte et en faisant un copier/coller dans un fichier .txt vide. Ensuite, enregistrez le fichier sur votre disque dur, vous pourrez l'importer dans une autre installation de WordPress plus tard. Sinon, vous pouvez simplement le coller dans la zone de texte <strong>Paramètres</strong><code>OptionTree->Paramètres->Importer</code> sur un autre site web."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:439
 msgid "Export your Theme Options data by highlighting this text and doing a copy/paste into a blank .txt file. Then save the file for importing into another install of WordPress later. Alternatively, you could just paste it into the <code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> textarea on another web site."
-msgstr ""
+msgstr "Exportez vos données d'option de thème en surlignant ce texte et en faisant un copier/coller dans un fichier .txt vide. Ensuite, enregistrez le fichier sur votre disque dur, vous pourrez l'importer dans une autre installation de WordPress plus tard. Sinon, vous pouvez simplement le coller dans la zone de texte <strong>Paramètres</strong><code>OptionTree->Paramètres->Importer</code> sur un autre site web."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:475
 msgid "Export your Layouts by highlighting this text and doing a copy/paste into a blank .txt file. Then save the file for importing into another install of WordPress later. Alternatively, you could just paste it into the <code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea on another web site."
-msgstr ""
+msgstr "Exportez vos mises en page en surlignant ce texte et en faisant un copier/coller dans un fichier .txt vide. Ensuite, enregistrez le fichier sur votre disque dur, vous pourrez l'importer dans une autre installation de WordPress plus tard. Sinon, vous pouvez simplement le coller dans la zone de texte <strong>Mises en page</strong><code>OptionTree->Paramètres->Importer</code> sur un autre site web."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:517
 msgid "To add a new layout enter a unique lower case alphanumeric string (dashes allowed) in the text field and click \"Save Layouts\"."
-msgstr ""
+msgstr "Pour ajouter une nouvelle mise en page, entrer une chaîne alphanumérique unique (tiret permis) dans le champ texte et cliquez sur \"Enregistrer mise en page\"."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:518
 msgid "As well, you can activate, remove, and drag & drop the order; all situations require you to click \"Save Layouts\" for the changes to be applied."
-msgstr ""
+msgstr "En outre, vous pouvez activer, supprimer et glissez-déposez l'ordre; quoi que vous fassiez, il faut que vous cliquiez sur \"Enregistrer les mises en page\" pour que les modifications soient appliquées."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:519
 msgid "When you create a new layout it will become active and any changes made to the Theme Options will be applied to it. If you switch back to a different layout immediately after creating a new layout that new layout will have a snapshot of the current Theme Options data attached to it."
-msgstr ""
+msgstr "Lorsque vous créez une nouvelle mise en page, elle deviendra active et toutes les modifications apportées aux options du thème seront appliquées. Si vous revenez à une mise en page différente immédiatement après la création d'une nouvelle mise en page, cette nouvelle mise en page aura un aperçu des données actuelles des options du thème qui lui sont attachées."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:520
 msgid "Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more in-depth description of what layouts are and how to use them."
-msgstr ""
+msgstr "Visitez <code>OptionTree-> Documentation->Aperçu des mises en page</code> pour voir plus en profondeur ce que sont les mises en page et comment les utiliser."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-functions-settings-page.php:557
 msgid "Save Layouts"
-msgstr ""
+msgstr "Enregistrer les mises en pages"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-settings-api.php:346
 msgid "Reset Options"
-msgstr ""
+msgstr "Reset des options"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:19
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:20
 msgid "OptionTree"
-msgstr ""
+msgstr "OptionTree"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:36
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:131
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-theme-options.php:40
 msgid "Theme Options updated."
-msgstr ""
+msgstr "Options du thème mises à jour."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:37
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:132
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-theme-options.php:41
 msgid "Theme Options reset."
-msgstr ""
+msgstr "Reset des options du thème"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:38
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:133
 msgid "Save Settings"
-msgstr ""
+msgstr "Enregistrer les paramètres"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:44
 msgid "Theme Options UI"
-msgstr ""
+msgstr "UI pour les options du thème"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:48
 msgid "Import"
-msgstr ""
+msgstr "Import"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:52
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:56
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:86
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:110
 msgid "Layouts"
-msgstr ""
+msgstr "Mises en pages"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:62
 msgid "Theme Options UI Builder"
-msgstr ""
+msgstr "Générateur d'UI (Interface Utilisateur) pour les options de votre thème"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:68
 msgid "Settings XML"
-msgstr ""
+msgstr "Options XML"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:80
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:104
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-theme-options.php:34
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-theme-options.php:35
 msgid "Theme Options"
-msgstr ""
+msgstr "Options du thème"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:92
 msgid "Settings PHP File"
-msgstr ""
+msgstr "Fichier PHP de vos options"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:116
 msgid "Add, Activate, & Remove Layouts"
-msgstr ""
+msgstr "Ajouter, activer ou supprimer des mises en page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:125
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:126
 msgid "Documentation"
-msgstr ""
+msgstr "Documentation"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:139
 msgid "Creating Options"
-msgstr ""
+msgstr "Création d'options"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:143
 msgid "Option Types"
-msgstr ""
+msgstr "Types d'options"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:147
 msgid "Function References"
-msgstr ""
+msgstr "Références de fonction"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:151
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:193
 msgid "Theme Mode"
-msgstr ""
+msgstr "Mode Thème"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:155
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:199
 msgid "Meta Boxes"
-msgstr ""
+msgstr "Meta boxes"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:159
 msgid "Code Examples"
-msgstr ""
+msgstr "Exemples de code"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:163
 msgid "Layouts Overview"
-msgstr ""
+msgstr "Vue d'ensemble des mises en page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:169
 msgid "Overview of available Theme Option fields."
-msgstr ""
+msgstr "Vue d'ensemble des champs disponibles pour les options de thème."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:175
 msgid "Option types in alphabetical order & hooks to filter them."
-msgstr ""
+msgstr "Types d'options dans l'ordre alphabétique et astuces pour les filtrer."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:181
 msgid "Function Reference:ot_get_option()"
-msgstr ""
+msgstr "Référence de fonction : ot_get_option()"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:187
 msgid "Function Reference:get_option_tree()"
-msgstr ""
+msgstr "Référence de fonction : get_option_tree()"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:205
 msgid "Code examples for front-end development."
-msgstr ""
+msgstr "Les exemples de code pour développement front-end."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\option-tree/includes/ot-ui-admin.php:211
 msgid "What's a layout anyhow?"
-msgstr ""
+msgstr "Qu'est-ce qu'une mise en page ?"
 

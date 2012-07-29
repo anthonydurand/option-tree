@@ -588,24 +588,24 @@ if ( ! function_exists( 'ot_type_layouts_overview' ) ) {
         echo '<p class="aside">' . __( ' Adding a layout is ridiculously easy, follow these steps and you\'ll be on your way to having a WordPress super theme.', 'option-tree' ) . '</p>';
         
         echo '<h4>' . __( 'For Developers', 'option-tree' ) . ':</h4>';
-        echo '<p>' . __( '', 'option-tree' ) . '</p>';
+        echo '<p>' . __( ' ', 'option-tree' ) . '</p>';
         
         echo '<h5>' . __( 'Creating a Layout', 'option-tree' ) . ':</h5>';
         echo '<ul class="docs-ul">';
-          echo '<li>'. __( 'Go to the <code>OptionTre->Settings->Layouts</code> tab.', 'option-tree' ) . '</li>';
+          echo '<li>'. __( 'Go to the <code>OptionTree->Settings->Layouts</code> tab.', 'option-tree' ) . '</li>';
           echo '<li>' . __( 'Enter a name for your layout in the text field and hit "Save Layouts", you\'ve created your first layout.', 'option-tree' ) . '</li>';
           echo '<li>' . __( 'Adding a new layout is as easy as repeating the steps above.', 'option-tree' ) . '</li>';
         echo '</ul>';
         
         echo '<h5>' . __( 'Activating a Layout', 'option-tree' ) . ':</h5>';
         echo '<ul class="docs-ul">';
-          echo '<li>'. __( 'Go to the <code>OptionTre->Settings->Layouts</code> tab.', 'option-tree' ) . '</li>';
+          echo '<li>'. __( 'Go to the <code>OptionTree->Settings->Layouts</code> tab.', 'option-tree' ) . '</li>';
           echo '<li>' . __( 'Click on the activate layout button in the actions list.', 'option-tree' ) . '</li>';
         echo '</ul>';
         
         echo '<h5>' . __( 'Deleting a Layout', 'option-tree' ) . ':</h5>';
         echo '<ul class="docs-ul">';
-          echo '<li>'. __( 'Go to the <code>OptionTre->Settings->Layouts</code> tab.', 'option-tree' ) . '</li>';
+          echo '<li>'. __( 'Go to the <code>OptionTree->Settings->Layouts</code> tab.', 'option-tree' ) . '</li>';
           echo '<li>' . __( 'Click on the delete layout button in the actions list.', 'option-tree' ) . '</li>';
         echo '</ul>';
         
@@ -618,7 +618,7 @@ if ( ! function_exists( 'ot_type_layouts_overview' ) ) {
         echo '</ul>';
 
         echo '<h4>' . __( 'End-Users Mode', 'option-tree' ) . ':</h4>';
-        echo '<p>' . __( '', 'option-tree' ) . '</p>';
+        echo '<p>' . __( ' ', 'option-tree' ) . '</p>';
         
         echo '<h5>' . __( 'Creating a Layout', 'option-tree' ) . ':</h5>';
         echo '<ul class="docs-ul">';
@@ -801,7 +801,7 @@ include_once( \'includes/theme-options.php\' );
           echo '<li>' . __( 'Add a variation of the following code to your <code>theme-options.php</code>. You\'ll obviously need to fill it in with all your custom array values for contextual help (optional), sections (required), and settings (required).', 'option-tree' ) . '</li>';
         echo '</ul>';
         
-        echo '<p>' . __( 'The code below is a boilerplate to get your started. For a full list of the available option types click the "Option Types" tab above. Also a quick note, you don\'t need to put OptionTree in theme mode to manually create options but you will want to hide the docs and settings as each time you load the admin area the settings be be written over with the code below if they\'ve changed in any way. However, this ensures your settings do not get tampered with by the end-user.', 'option-tree' ) . '</p>';
+        echo '<p>' . __( 'The code below is a boilerplate to get your started. For a full list of the available option types click the "Option Types" tab above. Also a quick note, you don\'t need to put OptionTree in theme mode to manually create options but you will want to hide the docs and settings as each time you load the admin area the settings will be written over with the code below if they\'ve changed in any way. However, this ensures your settings do not get tampered with by the end-user.', 'option-tree' ) . '</p>';
         
         echo "<pre><code>/**
  * Initialize the options before anything else. 
