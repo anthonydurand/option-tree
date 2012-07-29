@@ -612,7 +612,7 @@ msgstr "<strong>Type d'article</strong> : Ajouter une liste déroulante séparé
 
 #: includes/ot-functions-admin.php:2644
 msgid "<strong>Taxonomy</strong>: Add a comma separated list of any registered taxonomy like 'category,post_tag'. This will only affect the following option types: Taxonomy Checkbox, & Taxonomy Select."
-msgstr "<strong>Taxonomie</strong> : Ajouter une liste séparée par des virgules de toute taxonomie enregistrée comme 'categorie, post_tag'. Cela affectera seulement les types d'options suivantes : Case à cocher de Taxonomie et Liste déroulante de Taxonomie."
+msgstr "<strong>Taxonomie</strong> : Ajouter une liste séparée par des virgules de toute taxonomie enregistrée comme 'category, post_tag'. Cela affectera seulement les types d'options suivantes : Case à cocher de Taxonomie et Liste déroulante de Taxonomie."
 
 #: includes/ot-functions-admin.php:2652
 msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
