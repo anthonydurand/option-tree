@@ -45,7 +45,7 @@ Yes. OptionTree requires PHP5 to work correctly (so does WP 3.2+).
 * french localisation added.
 * option-tree.pot updated.
 * 3 css properties modified in ot-admin.css.
-* some strings modified in ot-functions-admin.php, ot-functions-docs-pages.php and ot-functions-settings-pages.php in order o tranlsate them.
+* some strings modified in ot-functions-admin.php, ot-functions-docs-pages.php and ot-functions-settings-pages.php in order to tranlsate them.
 * ot-loader.php modified in order to make localisation work. Waiting for a fix on this.
 
 
